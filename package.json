@@ -1,5 +1,5 @@
 {
-  "name": "html_as",
+  "name": "as-lover",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
@@ -9,12 +9,11 @@
     "type": "git",
     "url": "git+https://github.com/kos7xm/as-lover.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/kos7xm/as-lover/issues"
   },
-  "homepage": "https://github.com/kos7xm/as-lover#readme",
+  "homepage": "https://github.com/kos7xm/as-lover",
   "description": ""
 }
